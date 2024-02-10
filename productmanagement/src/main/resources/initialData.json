@@ -1,0 +1,200 @@
+[
+  {
+    "Name": "Smart TVs",
+    "Description": "High-quality smart TVs for immersive entertainment",
+    "SubProducts": [
+      {
+        "Name": "Samsung QLED Q90T",
+        "Description": "4K QLED TV with Quantum HDR and Object Tracking Sound+"
+      },
+      {
+        "Name": "LG OLED C1",
+        "Description": "Cinematic OLED TV with AI Picture Pro and Dolby Vision IQ"
+      },
+      {
+        "Name": "Sony BRAVIA XR A90J",
+        "Description": "Master Series 4K OLED TV with Cognitive Processor XR"
+      },
+      {
+        "Name": "TCL 6-Series",
+        "Description": "Affordable 4K QLED TV with Mini-LED backlighting"
+      },
+      {
+        "Name": "Hisense U8G",
+        "Description": "ULED TV with Quantum Dot technology for vibrant colors"
+      },
+      {
+        "Name": "Vizio P-Series Quantum X",
+        "Description": "High-performance 4K HDR TV with Quantum Color"
+      },
+      {
+        "Name": "Panasonic TX-65HZ1500B",
+        "Description": "HCX Pro Intelligent Processor for stunning visuals"
+      },
+      {
+        "Name": "Philips OLED 805",
+        "Description": "Ambilight 4K OLED TV for an immersive viewing experience"
+      },
+      {
+        "Name": "Sharp Aquos R4K",
+        "Description": "Android TV with 4K resolution and voice control"
+      },
+      {
+        "Name": "Xiaomi Mi TV Q1",
+        "Description": "QLED TV with Dolby Vision and Dolby Atmos support"
+      },
+      {
+        "Name": "LG NanoCell 85",
+        "Description": "NanoCell TV with Real 4K resolution and AI ThinQ"
+      },
+      {
+        "Name": "Sony X80J",
+        "Description": "4K HDR LED TV with Google TV integration"
+      },
+      {
+        "Name": "Samsung AU8000",
+        "Description": "Crystal UHD TV with HDR and AirSlim design"
+      },
+      {
+        "Name": "LG GX Gallery Series",
+        "Description": "Art-inspired OLED TV with Gallery Design"
+      },
+      {
+        "Name": "Hisense U9DG",
+        "Description": "Dual-cell 4K ULED TV with Quantum Dot and Dolby Vision HDR"
+      }
+    ]
+  },
+  {
+    "Name": "Washing Machines",
+    "Description": "Efficient washing machines for laundry convenience",
+    "SubProducts": [
+      {
+        "Name": "LG TurboWash 360",
+        "Description": "Front-load washer with AI DD and TurboWash 360 technology"
+      },
+      {
+        "Name": "Samsung FlexWash",
+        "Description": "Front-load and top-load combo for flexible laundry"
+      },
+      {
+        "Name": "Whirlpool WTW8127LC",
+        "Description": "High-efficiency top-load washer with Load & Go dispenser"
+      },
+      {
+        "Name": "Bosch 300 Series",
+        "Description": "Compact front-load washer with SpeedPerfect"
+      },
+      {
+        "Name": "Maytag MVW8230HC",
+        "Description": "Extra-large capacity top-load washer with Deep Fill option"
+      },
+      {
+        "Name": "Electrolux EFLS627UIW",
+        "Description": "Smart front-load washer with Perfect Steam"
+      },
+      {
+        "Name": "Haier HLP24E",
+        "Description": "Portable top-load washer with stainless steel drum"
+      },
+      {
+        "Name": "Kenmore Elite 41072",
+        "Description": "Front-load washer with Accela Wash and Steam Treat"
+      },
+      {
+        "Name": "GE GTW335ASNWW",
+        "Description": "Top-load washer with deep clean cycle"
+      },
+      {
+        "Name": "Amana NTW4516FW",
+        "Description": "Affordable top-load washer with dual-action agitator"
+      },
+      {
+        "Name": "Samsung WF45R6300AV",
+        "Description": "Front-load washer with Super Speed and Steam technology"
+      },
+      {
+        "Name": "LG Signature TWINWash",
+        "Description": "Front-load washer and mini washer combo with SmartThinQ"
+      },
+      {
+        "Name": "Whirlpool WFW9620HC",
+        "Description": "Front-load washer with Load & Go XL and 12-Hour FanFresh"
+      },
+      {
+        "Name": "Maytag MHW6630HW",
+        "Description": "Front-load washer with Extra Power button and 24-Hr Fresh Hold"
+      },
+      {
+        "Name": "Beko WDA914401",
+        "Description": "Washer dryer with AutoDosing technology"
+      }
+    ]
+  },
+  {
+    "Name": "Headphones",
+    "Description": "Premium headphones for immersive audio experiences",
+    "SubProducts": [
+      {
+        "Name": "Sony WH-1000XM4",
+        "Description": "Wireless over-ear headphones with industry-leading noise cancellation"
+      },
+      {
+        "Name": "Bose QuietComfort 35 II",
+        "Description": "Comfortable noise-canceling headphones with Alexa voice control"
+      },
+      {
+        "Name": "Sennheiser HD 660 S",
+        "Description": "Open-back, audiophile-grade headphones for detailed sound"
+      },
+      {
+        "Name": "Apple AirPods Pro",
+        "Description": "True wireless earbuds with active noise cancellation"
+      },
+      {
+        "Name": "JBL LIVE 650BTNC",
+        "Description": "Wireless over-ear headphones with Google Assistant support"
+      },
+      {
+        "Name": "Audio-Technica ATH-M50x",
+        "Description": "Professional studio monitor headphones with exceptional clarity"
+      },
+      {
+        "Name": "Beats Studio3 Wireless",
+        "Description": "Bluetooth over-ear headphones with Apple's W1 chip"
+      },
+      {
+        "Name": "Beyerdynamic DT 990 Pro",
+        "Description": "Open-back studio headphones with comfortable design"
+      },
+      {
+        "Name": "Sony WF-1000XM4",
+        "Description": "True wireless earbuds with LDAC for high-resolution audio"
+      },
+      {
+        "Name": "SteelSeries Arctis Pro Wireless",
+        "Description": "Gaming headset with dual wireless technology"
+      },
+      {
+        "Name": "Sennheiser Momentum 3 Wireless",
+        "Description": "Over-ear headphones with Auto On/Off and Smart Pause"
+      },
+      {
+        "Name": "Bose SoundSport Free",
+        "Description": "Wireless sport earbuds with sweat and weather resistance"
+      },
+      {
+        "Name": "Jabra Elite 85h",
+        "Description": "Wireless noise-canceling headphones with SmartSound technology"
+      },
+      {
+        "Name": "AKG K371",
+        "Description": "Closed-back studio headphones with foldable design"
+      },
+      {
+        "Name": "Marshall Major III",
+        "Description": "On-ear Bluetooth headphones with iconic Marshall design"
+      }
+    ]
+  }
+]
