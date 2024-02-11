@@ -32,7 +32,7 @@ public class ProductService {
     @Autowired
     private ObjectMapper objectMapper;
 
-    /*@PostConstruct
+    @PostConstruct
     public void initializeData() {
 
         try {
@@ -45,7 +45,7 @@ public class ProductService {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }*/
+    }
 
     @Transactional
     public void createProductWithSubProduct(ProductDTO productDTO){
